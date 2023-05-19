@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684450832 source:c:\users\nelson thiago\documents\aed2\atividade métodos de ordenaçao\inserção.c
+
+1684453796 source:c:\users\nelson thiago\documents\aed2\atividade métodos de ordenaçao\main.c
+	<stdio.h>
+	<stdlib.h>
+
